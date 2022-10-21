@@ -1,4 +1,4 @@
-Hi! I’m @matthewdefilippo | Mechanical Engineer turning Software Developer | Currently learning Python while undertaking a computer science after-degree.
+Hi! I’m @matthewdefilippo | Mechanical Engineer turning Software Developer
 
 <!---
 matthewdefilippo/matthewdefilippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
