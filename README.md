@@ -1,4 +1,4 @@
-Hi! I’m @matthewdefilippo | Mechanical Engineer turning Software Developer
+Hi! I’m @matthewdefilippo
 
 <!---
 matthewdefilippo/matthewdefilippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
